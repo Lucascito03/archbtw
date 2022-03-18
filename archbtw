@@ -1,0 +1,4 @@
+#!/bin/sh
+#A simple script that displays neofetch and redundantly lets people know you're using Arch
+#I should probably stop typing now since that would be considered bloat but oh well
+neofetch && echo 'I use Arch btw'
